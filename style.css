@@ -1,0 +1,60 @@
+body {
+    /text-align: center;
+    background-color:#CBA6C3;
+    font-family: Helvetica, Arial, sans-serif,'Times New Roman', Times, serif;
+    margin: 0px;
+    font-size: 1.5vw;
+}
+
+#logo {
+    margin: 0px;
+    padding: 8px;
+    font-family: "Fredoka One", sans-serif;
+    box-shadow: 10px 10px 15px 5px rgb(230, 228, 228);
+    width: 30%
+}
+
+ul {
+    margin: 0px;
+}   
+
+body > header {
+    background-color: #CBA6C3;
+    color: #353866;
+}
+
+body > header > nav > ul {
+    list-style: none;
+    text-decoration: none;
+}
+
+.navbutton { 
+    color: #353866;
+    text-decoration: none;
+}
+
+body > main > article {
+    width: 70%;
+    margin: auto;
+}
+
+
+form {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+body > footer {
+    background-color: #AAABD3;
+}
+ 
+img {
+    border-radius: 50%;
+}
+
+section {
+    text-align: center;
+}
